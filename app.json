@@ -1,0 +1,6 @@
+{
+    "name": "Aurora",
+    "description": "A fast and powerful web proxy made in go!",
+    "repository": "https://github.com/easella/Aurora",
+    "stack": "container"
+}
