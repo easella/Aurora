@@ -1,6 +1,12 @@
 {
-    "name": "Aurora",
-    "description": "A fast and powerful web proxy made in go!",
-    "repository": "https://github.com/easella/Aurora",
-    "stack": "container"
+  "name": "Start on Heroku: Go",
+  "description": "Go Getting Started Example App",
+  "keywords": [
+    "getting-started",
+    "go",
+    "sample",
+    "example"
+  ],
+  "website": "https://github.com/easella/Aurora",
+  "repository": "https://github.com/easella/Aurora"
 }
